@@ -12,6 +12,9 @@
 
 📫 **Reach me**: [LinkedIn](https://short-link.me/13c5w) | [Email](mailto:ikramktk732@gmail.com)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-364%20followers-blue?logo=linkedin)](https://www.linkedin.com/in/ikram-ullah-1697b5290)
+
+
 ### 🛠️ Languages & Tools
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
