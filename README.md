@@ -1,5 +1,5 @@
 
-![Banner](https://github.com/ikramullah732rzi/ikramullah/blob/main/Git%20Banner.png)
+![Banner](https://github.com/ikramullah732rzi/ikramullah732rzi/blob/main/Git%20Banner.png)
 
 
 # Hi  👋 I'm Ikram Ullah
