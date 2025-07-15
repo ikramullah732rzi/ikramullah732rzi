@@ -45,7 +45,8 @@
 - 📄 [PDF Viewer App](https://github.com/ikramullah732rzi/PDF_Viewer_App) — Lightweight Android PDF viewer using `PdfRenderer` with simple and fast navigation.
 
 - 🗒️ [Note App (Jetpack Compose)](https://github.com/ikramullah732rzi/Note_App_jetpack_compose) — A clean note-taking app built with Jetpack Compose and Room database.
-
+- 
+- 🗒️ [🤖 AI Chatbot App](https://github.com/ikramullah732rzi/GoogleChatBot) — A smart chatbot app built with MVVM, Retrofit, and Grok API for real-time AI conversations.
 
   
 
