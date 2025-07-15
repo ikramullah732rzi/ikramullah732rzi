@@ -25,6 +25,11 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ## 📂 My Public Projects
+- 🤖 [ AI Chatbot App](https://github.com/ikramullah732rzi/GoogleChatBot) — A smart chatbot app built with MVVM, Retrofit, and Grok API for real-time AI conversations.
+
+- 🗒️ [Note App (Jetpack Compose)](https://github.com/ikramullah732rzi/Note_App_jetpack_compose) — A clean note-taking app built with Jetpack Compose and Room database.
+
+- 🖼️ [Wallpaper App (Clean Architecture)](https://github.com/ikramullah732rzi/Wallpaper_App_Using_DI_Using_Clean_Architecture) — Modern wallpaper app using MVVM, Hilt DI, Retrofit API, and Clean Architecture principles.
 
 - 🔋 [Battery Animation](https://github.com/ikramullah732rzi/BatteryAnimation) — An Android app that displays beautiful battery charging animations using Canvas and animation APIs.
 
@@ -36,17 +41,14 @@
 
 - 🔢 [Tasbih Counter](https://github.com/ikramullah732rzi/Tasbih_Counter) — A digital Islamic Tasbih app with a progress bar, reset feature, and state-saving via SharedPreferences.
 
-- 🖼️ [Wallpaper App (Clean Architecture)](https://github.com/ikramullah732rzi/Wallpaper_App_Using_DI_Using_Clean_Architecture) — Modern wallpaper app using MVVM, Hilt DI, Retrofit API, and Clean Architecture principles.
-
 - 📝 [Poetry App (Hindi)](https://github.com/ikramullah732rzi/PoetryApp) — A beautiful Jetpack Compose app to explore and read Hindi poetry with smooth UI.
 
 - 🎵 [IR Audio Player](https://github.com/ikramullah732rzi/Audio_Player_IRPlayer) — A custom audio player for Android supporting various formats with intuitive UI.
 
 - 📄 [PDF Viewer App](https://github.com/ikramullah732rzi/PDF_Viewer_App) — Lightweight Android PDF viewer using `PdfRenderer` with simple and fast navigation.
 
-- 🗒️ [Note App (Jetpack Compose)](https://github.com/ikramullah732rzi/Note_App_jetpack_compose) — A clean note-taking app built with Jetpack Compose and Room database.
-- 
-- 🗒️ [🤖 AI Chatbot App](https://github.com/ikramullah732rzi/GoogleChatBot) — A smart chatbot app built with MVVM, Retrofit, and Grok API for real-time AI conversations.
+
+
 
   
 
