@@ -43,7 +43,7 @@
 
 - 📝 [Poetry App (Hindi)](https://github.com/ikramullah732rzi/PoetryApp) — A beautiful Jetpack Compose app to explore and read Hindi poetry with smooth UI.
 
-- 🎵 [IR Audio Player](https://github.com/ikramullah732rzi/Audio_Player_IRPlayer) — A custom audio player for Android supporting various formats with intuitive UI.
+- 🎵 [R Player App ](https://github.com/ikramullah732rzi/R_Player_App) — 🚀 Built a beautiful Android Media Player app using Clean Architecture, Hilt, in Jetpack Compose.
 
 - 📄 [PDF Viewer App](https://github.com/ikramullah732rzi/PDF_Viewer_App) — Lightweight Android PDF viewer using `PdfRenderer` with simple and fast navigation.
 
