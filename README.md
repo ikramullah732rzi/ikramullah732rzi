@@ -29,7 +29,7 @@
 
 - 🗒️ [Note App (Jetpack Compose)](https://github.com/ikramullah732rzi/Note_App_jetpack_compose) — A clean note-taking app built with Jetpack Compose and Room database.
 
-[R News App ](https://github.com/ikramullah732rzi/RNewsApp) — 🚀 Built a News App using Api ,Clean Architecture, Hilt, in Jetpack Compose.
+- 🆕  [R News App ](https://github.com/ikramullah732rzi/RNewsApp) — 🚀 Built a News App using Api ,Clean Architecture, Hilt, in Jetpack Compose.
 
 - 🖼️ [Wallpaper App (Clean Architecture)](https://github.com/ikramullah732rzi/Wallpaper_App_Using_DI_Using_Clean_Architecture) — Modern wallpaper app using MVVM, Hilt DI, Retrofit API, and Clean Architecture principles.
 
